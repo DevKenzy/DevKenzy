@@ -2,12 +2,6 @@ hello! here's a little about me:
 
 
 <p align="center">
-  <a href="https://www.chess.com/member/andyruwruw">
-    <img src="https://andyruwruw.vercel.app/api/chess-games">
-  </a>
-</p>
-
-<p align="center">
   <i>luckily being good at chess wasn't a pre-req to the job</i>
 </p>
 
