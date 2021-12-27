@@ -2,24 +2,24 @@ hello! here's a little about me:
 
 <p></p>
 
-#### I'm a Full-Stack Developer working in Lisbon, Portugal.
+#### I'm a Full-Stack Developer working in Khartoum, Sudan.
 
 ##### NOW
 
-- ✨ Crafted last [Scooter](https://scootersd.com) website;
+- ✨ Crafted last [Scooter For Delivery Services](https://scootersd.com) website;
 - 🇵🇹 Planing the "Tuga-Co-Op";
 - 🍑 What about this?
 
 ##### BIO
 
-- 🏢 I'm currently working at **Medicare Portugal**
+- 🏢 I'm currently working at **Scooter**
 - ⚙️ I use daily: `.php`, `.js`, `.html`, `.css`, `.svg`, `.apk`
-- 🌍 I'm mostly active within the **Laravel Community**
+- 🌍 I'm mostly active within the **React Community**
 - 💅 Designed: @pestphp, [NorthMeetsSouth.audio](https://www.northmeetssouth.audio), [ThenPing.me](https://thenping.me), [HappydDev.fm](https://www.happydev.fm), etc…
 - 🌱 Learning all about **Open Source**
-- 💬 Ping me about **design**, **branding**, **laravel**, **development**, **design thinking**
+- 💬 Ping me about **Coding**, **branding**, **laravel**, **development**, **React**
 - 📫 Reach me: [twitter.com/caneco](https://twitter.com/caneco)
-- ⚡️ Fun fact: I'm a huge fan of Harry Potter
+- ⚡️ Fun fact: I'm an animation lover
 
 
 <h1>
