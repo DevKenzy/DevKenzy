@@ -14,33 +14,11 @@
 - Play videogames
 - etc.
 
-## 💻 Current project
-- [Financial Go](https://github.com/Jvillegasd/FinancialGo)
-
-
-<div id = "some_issues">
-  <p>It is a little list of problems you can face while implementing this kind of stuff</p>
-  <ul id = "problem_list">
-    <li>
-      Github tend to cache anonymized URL, so you should visit this link if you have problem with image cache.
-      https://docs.github.com/es/github/authenticating-to-github/about-anonymized-image-urls
-    </li>
-    <li>
-      When you wrap your HTML in SVG/foreignObject maybe nothing show up. You can solve this issue visiting this link.
-      https://stackoverflow.com/questions/13848039/svg-foreignobject-contents-do-not-display-unless-plain-text
-    </li>
-  </ul>
-</div> 
-
-
-
 
 hello! here's a little about me:
 
-<p></p>
-
-##### NOW
-
+## 💻 Current project
+- [Financial Go](https://github.com/Jvillegasd/FinancialGo)
 - ✨ Crafted last [Scooter For Delivery Services](https://scootersd.com) website;
 - 🇵🇹 Planing the "Tuga-Co-Op";
 - 🍑 What about this?
