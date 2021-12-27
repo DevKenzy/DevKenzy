@@ -6,14 +6,14 @@ hello! here's a little about me:
 
 ##### NOW
 
-- ✨ Crafted last [Laracon Online](https://laracon.net) website;
+- ✨ Crafted last [Scooter](https://scootersd.com) website;
 - 🇵🇹 Planing the "Tuga-Co-Op";
 - 🍑 What about this?
 
 ##### BIO
 
 - 🏢 I'm currently working at **Medicare Portugal**
-- ⚙️ I use daily: `.php`, `.js`, `.html`, `.css`, `.svg`, `.psd`, `.ai`
+- ⚙️ I use daily: `.php`, `.js`, `.html`, `.css`, `.svg`, `.apk`
 - 🌍 I'm mostly active within the **Laravel Community**
 - 💅 Designed: @pestphp, [NorthMeetsSouth.audio](https://www.northmeetssouth.audio), [ThenPing.me](https://thenping.me), [HappydDev.fm](https://www.happydev.fm), etc…
 - 🌱 Learning all about **Open Source**
