@@ -23,7 +23,7 @@
 - 🏢 I'm currently working at **Scooter**
 - ⚙️ I use daily: `.php`, `.js`, `.html`, `.css`, `.svg`, `.apk`
 - 🌍 I'm mostly active within the **React Community**
-- 💅 Designed: @pestphp, [NorthMeetsSouth.audio](https://www.northmeetssouth.audio), [ThenPing.me](https://thenping.me), [HappydDev.fm](https://www.happydev.fm), etc…
+- 💅 Designed: @pestphp, [Magdi Gabani ](http://magdigabani-ae.com), [Alphamed](https://www.alphamed-sdn.net), [Scooter](https://www.scootersd.com), etc…
 - 🌱 Learning all about **Open Source**
 - 🧐 Learning about serverless architectures, Machine Learning, and a bit of distributed systems.
 - 💬 Ping me about **Coding**, **branding**, **laravel**, **development**, **React**
