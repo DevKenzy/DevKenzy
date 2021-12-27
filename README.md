@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kenzy</h1>
-<h3 align="center">A software developer from Sudan</h3>
+<h3 align="center">A Full-Stack Developer working in Khartoum, Sudan</h3>
 
 ## 💬 Ask me about
 - Backend web development
@@ -38,8 +38,6 @@
 hello! here's a little about me:
 
 <p></p>
-
-#### I'm a Full-Stack Developer working in Khartoum, Sudan.
 
 ##### NOW
 
