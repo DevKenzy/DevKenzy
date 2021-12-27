@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Johnny</h1>
-<h3 align="center">A software developer from Colombia</h3>
+<h1 align="center">Hi 👋, I'm Kenzy</h1>
+<h3 align="center">A software developer from Sudan</h3>
 
 ## 💬 Ask me about
 - Backend web development
-- Frontend web development (Vue.js)
+- Frontend web development (React.js, Bootstrap)
 - Docker
 - Deep Learning
 
@@ -17,13 +17,8 @@
 ## 💻 Current project
 - [Financial Go](https://github.com/Jvillegasd/FinancialGo)
 
-## 🎵 Spotify status
 
-<a href="https://jvillegasd-spotify.vercel.app/api/song/?opened">
-  <img src="https://jvillegasd-spotify.vercel.app/api/song" width="341" height="571" alt="Now Playing">
-</a>
-
-<!-- <div id = "some_issues">
+<div id = "some_issues">
   <p>It is a little list of problems you can face while implementing this kind of stuff</p>
   <ul id = "problem_list">
     <li>
@@ -35,7 +30,7 @@
       https://stackoverflow.com/questions/13848039/svg-foreignobject-contents-do-not-display-unless-plain-text
     </li>
   </ul>
-</div> -->
+</div> 
 
 
 
