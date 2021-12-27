@@ -1,7 +1,7 @@
-<h3 align="center">
-  Welcome to Jonah Lawrence's profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
+
+
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Kenzy</h1>
+<h3 align="center">A Full-Stack Developer working in Khartoum, Sudan</h3>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
@@ -26,9 +26,6 @@
 
 
 
-
-<h1 align="center">Hi 👋, I'm Kenzy</h1>
-<h3 align="center">A Full-Stack Developer working in Khartoum, Sudan</h3>
 
 ##### BIO
 
