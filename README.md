@@ -44,9 +44,7 @@
 - etc.
 
 ## 💻 Current project
-- [Financial Go](https://github.com/Jvillegasd/FinancialGo)
 - ✨ Crafted last [Scooter For Delivery Services](https://scootersd.com) website;
-- 🇵🇹 Planing the "Tuga-Co-Op";
 - 🍑 What about this?
 
 <!--
