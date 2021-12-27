@@ -14,15 +14,6 @@
 - Play videogames
 - etc.
 
-
-hello! here's a little about me:
-
-## 💻 Current project
-- [Financial Go](https://github.com/Jvillegasd/FinancialGo)
-- ✨ Crafted last [Scooter For Delivery Services](https://scootersd.com) website;
-- 🇵🇹 Planing the "Tuga-Co-Op";
-- 🍑 What about this?
-
 ##### BIO
 
 - 🏢 I'm currently working at **Scooter**
@@ -33,6 +24,12 @@ hello! here's a little about me:
 - 💬 Ping me about **Coding**, **branding**, **laravel**, **development**, **React**
 - 📫 Reach me: [twitter.com/caneco](https://twitter.com/caneco)
 - ⚡️ Fun fact: I'm an animation lover
+
+## 💻 Current project
+- [Financial Go](https://github.com/Jvillegasd/FinancialGo)
+- ✨ Crafted last [Scooter For Delivery Services](https://scootersd.com) website;
+- 🇵🇹 Planing the "Tuga-Co-Op";
+- 🍑 What about this?
 
 
 <h1>
