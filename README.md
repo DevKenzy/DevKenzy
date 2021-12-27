@@ -27,7 +27,6 @@
 - 🌱 Learning all about **Open Source**
 - 🧐 Learning about serverless architectures, Machine Learning, and a bit of distributed systems.
 - 💬 Ping me about **Coding**, **branding**, **laravel**, **development**, **React**
-- 📫 Reach me: [twitter.com/caneco](https://twitter.com/caneco)
 - ⚡️ Fun fact: I'm an animation lover
 
 
